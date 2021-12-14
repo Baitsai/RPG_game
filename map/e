@@ -1,0 +1,25 @@
+            else if (map[i][j] > 201 && map[i][j] < 300)
+            {
+                cout << "⭐︎"
+                    << "\t";
+            }
+            else if (map[i][j] == 300)
+            {
+                cout<< "🧟"
+                    << "\t"; 
+            }
+            else if (map[i][j] == 301)
+            {
+                cout << "👾"
+                    << "\t";
+            }
+            else if (map[i][j] == 302)
+            {
+                cout << "😈"
+                    << "\t";
+            }
+            else if (map[i][j] < 0)
+            {
+                cout << "🧙"
+                    << "\t";
+            }

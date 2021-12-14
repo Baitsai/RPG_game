@@ -1,0 +1,7 @@
+playerKnight
+sw
+3
+225
+100
+0
+0
